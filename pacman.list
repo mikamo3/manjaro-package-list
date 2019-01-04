@@ -10,7 +10,9 @@ cryptsetup
 device-mapper
 dhcpcd
 diffutils
+dosfstools
 e2fsprogs
+efibootmgr
 fakeroot
 file
 filesystem
@@ -23,7 +25,11 @@ gettext
 glibc
 grep
 groff
+grub
+grub-theme-manjaro
 gzip
+i3-gaps
+i3status
 inetutils
 intel-ucode
 iproute2
@@ -32,9 +38,11 @@ jfsutils
 less
 libtool
 licenses
-linux-firmware
+lightdm
+lightdm-webkit-theme-litarvan
 linux419
 linux419-headers
+linux-firmware
 logrotate
 lvm2
 m4
@@ -45,7 +53,6 @@ mdadm
 mhwd
 mhwd-db
 nano
-neovim
 netctl
 networkmanager
 openssh
@@ -57,9 +64,10 @@ pkgconf
 procps-ng
 psmisc
 reiserfsprogs
-s-nail
+rofi
 sed
 shadow
+s-nail
 sudo
 sysfsutils
 systemd
