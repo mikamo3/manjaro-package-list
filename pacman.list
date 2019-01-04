@@ -40,8 +40,9 @@ libtool
 licenses
 lightdm
 lightdm-webkit-theme-litarvan
-linux419
-linux419-headers
+linux418
+linux418-headers
+linux418-virtualbox-guest-modules
 linux-firmware
 logrotate
 lvm2
