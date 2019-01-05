@@ -18,6 +18,7 @@ file
 filesystem
 findutils
 flex
+fzf
 gawk
 gcc
 gcc-libs
