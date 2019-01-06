@@ -37,6 +37,7 @@ iproute2
 iputils
 jfsutils
 jq
+kitty
 less
 libtool
 licenses
@@ -59,6 +60,8 @@ nano
 neovim
 netctl
 networkmanager
+noto-fonts
+noto-fonts-emoji
 openssh
 pacman
 patch
@@ -79,6 +82,7 @@ systemd-sysvcompat
 tar
 texinfo
 tmux
+unzip
 usbutils
 util-linux
 vi
