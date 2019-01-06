@@ -1,3 +1,4 @@
+alacritty
 autoconf
 automake
 bash
@@ -44,7 +45,6 @@ iproute2
 iputils
 jfsutils
 jq
-kitty
 less
 libtool
 licenses
