@@ -69,6 +69,7 @@ patch
 pciutils
 perl
 pkgconf
+powerline-fonts
 procps-ng
 psmisc
 reiserfsprogs
