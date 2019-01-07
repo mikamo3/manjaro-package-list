@@ -6,6 +6,7 @@ bashrc-manjaro
 binutils
 bison
 bzip2
+compton
 coreutils
 cryptsetup
 device-mapper
@@ -70,6 +71,7 @@ netctl
 networkmanager
 noto-fonts
 noto-fonts-emoji
+numlockx
 openssh
 pacman
 patch
