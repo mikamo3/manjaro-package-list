@@ -23,6 +23,7 @@ fcitx-gtk3
 fcitx-mozc
 fcitx-qt4
 fcitx-qt5
+feh
 file
 filesystem
 findutils
@@ -99,6 +100,7 @@ util-linux
 vi
 virtualbox-guest-utils
 which
+xdg-user-dirs
 xf86-video-fbdev
 xf86-video-vesa
 xfsprogs
