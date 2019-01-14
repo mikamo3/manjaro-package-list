@@ -87,6 +87,7 @@ pciutils
 perl
 pkgconf
 polybar
+powerline
 powerline-fonts
 procps-ng
 psmisc
