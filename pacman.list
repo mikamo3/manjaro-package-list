@@ -75,9 +75,11 @@ neovim
 netctl
 network-manager-applet
 networkmanager
+nodejs
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
+npm
 numlockx
 openssh
 pacman
@@ -92,6 +94,8 @@ powerline-fonts
 procps-ng
 psmisc
 pulseaudio
+python-pip
+python2
 reiserfsprogs
 rofi
 s-nail
