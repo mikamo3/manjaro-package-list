@@ -101,6 +101,8 @@ rofi
 s-nail
 sed
 shadow
+shellcheck
+shfmt
 smartmontools
 speedtest-cli
 sudo
@@ -109,6 +111,7 @@ systemd
 systemd-sysvcompat
 tar
 texinfo
+the_silver_searcher
 tmux
 ttf-font-awesome
 ttf-nerd-fonts-symbols
