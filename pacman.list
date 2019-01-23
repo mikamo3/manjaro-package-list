@@ -91,6 +91,7 @@ pkgconf
 polybar
 powerline
 powerline-fonts
+prettier
 procps-ng
 psmisc
 pulseaudio
