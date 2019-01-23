@@ -36,6 +36,7 @@ gcc
 gcc-libs
 gettext
 glibc
+gnome-keyring
 grep
 groff
 grub
@@ -51,6 +52,7 @@ iputils
 jfsutils
 jq
 less
+libgnome-keyring
 libtool
 licenses
 lightdm
@@ -100,6 +102,7 @@ python2
 reiserfsprogs
 rofi
 s-nail
+seahorse
 sed
 shadow
 shellcheck
