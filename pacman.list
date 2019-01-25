@@ -7,6 +7,7 @@ bashrc-manjaro
 binutils
 bison
 bzip2
+chromium
 compton
 coreutils
 cryptsetup
@@ -88,6 +89,7 @@ pacman
 patch
 pavucontrol
 pciutils
+pepper-flash
 perl
 pkgconf
 polybar
@@ -124,6 +126,7 @@ usbutils
 util-linux
 vi
 virtualbox-guest-utils
+vlc
 which
 xdg-user-dirs
 xf86-video-fbdev
