@@ -26,9 +26,9 @@ jq
 libgnome-keyring
 lightdm
 lightdm-webkit-theme-litarvan
-linux418
-linux418-headers
-linux418-virtualbox-guest-modules
+linux419
+linux419-headers
+linux419-virtualbox-guest-modules
 manjaro-settings-manager
 neofetch
 neovim
